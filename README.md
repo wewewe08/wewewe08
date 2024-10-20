@@ -4,7 +4,7 @@
 const yvonne = {
     position: "Fullstack Developer",
     code: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-    tools: ["NodeJS", "Bootstrap", FastAPI", "MongoDB", "Docker"]
+    tools: ["NodeJS", "Bootstrap", "FastAPI", "MongoDB", "Docker"]
 };
 ```
 
