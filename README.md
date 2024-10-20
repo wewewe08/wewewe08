@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Yvonne! 👋
 
-<!--
-**wewewe08/wewewe08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const yvonne = {
+    position: "Fullstack Developer",
+    code: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+    tools: ["NodeJS", "Bootstrap", FastAPI", "MongoDB", "Docker"]
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Latest Project(s)
+[![Latest Repository](https://img.shields.io/badge/-personal_library-blue?logo=github&logoColor=white)](https://github.com/wewewe08/personal-library)
